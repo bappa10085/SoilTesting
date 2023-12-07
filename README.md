@@ -1,5 +1,5 @@
 # SoilTesting
-[![CRAN](http://www.r-pkg.org/badges/version/SOILTESTING)]( https://CRAN.R-project.org/package=SoilTesting) [![License](https://img.shields.io/badge/license-GPL%20%28%3E=%203%29-lightgrey.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html) [![monthly](http://cranlogs.r-pkg.org/badges/SoilTesting)]( http://cranlogs.r-pkg.org/badges/SoilTesting) [![total](http://cranlogs.r-pkg.org/badges/grand-total/SoilTesting)](http://cranlogs.r-pkg.org/badges/grand-total/SoilTesting)  [![dependencies](https://tinyverse.netlify.com/badge/SOILTESTING)]( https://CRAN.R-project.org/package=SoilTesting)
+[![CRAN](http://www.r-pkg.org/badges/version/SoilTesting)](https://CRAN.R-project.org/package=SoilTesting) [![License](https://img.shields.io/badge/license-GPL%20%28%3E=%203%29-lightgrey.svg?style=flat)](http://www.gnu.org/licenses/gpl-3.0.html) [![monthly](http://cranlogs.r-pkg.org/badges/SoilTesting)]( http://cranlogs.r-pkg.org/badges/SoilTesting) [![total](http://cranlogs.r-pkg.org/badges/grand-total/SoilTesting)](http://cranlogs.r-pkg.org/badges/grand-total/SoilTesting)  [![dependencies](https://tinyverse.netlify.com/badge/SOILTESTING)]( https://CRAN.R-project.org/package=SoilTesting)
 
 Organic Carbon and Plant Available Nutrient Contents in Soil
 
